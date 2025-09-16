@@ -15,4 +15,4 @@
 - **Laboratori 5 · Calculadora col·laborativa amb C** → Desenvolupament en grup de 3 persones d’un programa de calculadora amb diverses operacions matemàtiques en C.
 
 ### Reflexió i conclusions
-Els laboratoris m'han permès configurar un entorn complet de treball basat en una màquina virtual amb Debian, integrat amb la terminal de l’ordinador host i amb VSCode a través de connexió SSH. També s’ha configurat git i vinculat amb GitHub per gestionar el codi de manera eficient i col·laborativa. El Laboratori 5 ha permès entendre com treballar en un projecte compartit amb GitHub i com repartir les tasques entre els membres del grup
+Els laboratoris m'han permès configurar un entorn complet de treball basat en una màquina virtual amb Debian, integrat amb la terminal de l’ordinador host i amb VSCode a través de connexió SSH. També he configurat git i vinculat amb GitHub per gestionar el codi de manera eficient i col·laborativa. El Laboratori 5 m'ha permès entendre com treballar en un projecte compartit amb GitHub i com repartir les tasques entre els membres del grup
