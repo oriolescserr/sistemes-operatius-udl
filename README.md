@@ -50,21 +50,19 @@ Els apunts es mantenen en **format Markdown** i es versionen mitjançant GitHub,
 - **Mòduls de nucli Linux**
 - **Scripts en Bash**
 
-## 📝 Metodologia dels Apunts (Bonus +5%)
+## 📝 Estructura dels Apunts
 
 Cada setmana s’afegeixen apunts nous amb la següent estructura:
 
 ```markdown
 ## Setmana X
 
-### Resum teòric
+### Resum de la setmana
 - ...
 
-### Exemples pràctics
+### Activitats i laboratoris realitzats
 - ...
 
-### Dubtes i preguntes
+### Reflexió i conclusions
 - ...
-
-### Reflexions personals
-- ...
+```
