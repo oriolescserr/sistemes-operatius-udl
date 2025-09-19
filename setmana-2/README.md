@@ -10,7 +10,7 @@
 
 ### Activitats i exemples
 - Estudi i anàlisi de les diapositives de la unitat *Introducció a la programació de Sistema (C)*.    
-- Primer contacte amb forks a GitHub: exemple de com clonar un repositori extern, modificar-lo i proposar canvis.  
+- Primer contacte amb forks a GitHub: exemple de com clonar un repositori extern, modificar-lo i proposar canvis. Vam fer un fork al repositori de la classe ([course](https://github.com/os-gei-udl-2526-105012/course)) i vam afegir el nostre nom i link al nostre GitHub.  
 
 ### Reflexió i conclusions
 Aquesta setmana m'ha servit per recordar coneixements del llenguatge C, especialment els relacionats amb la gestió de memòria, punters i estructures de dades. També he après la importància del Makefile per facilitar el treball amb projectes que contenen diversos fitxers.  
