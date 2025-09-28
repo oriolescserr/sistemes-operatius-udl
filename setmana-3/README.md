@@ -1,4 +1,4 @@
-# Setmana 3 – Programació en C, Kernel i crides a sistema
+## Setmana 3 – Programació en C, Kernel i crides a sistema
 
 ### Resum de la setmana
 
