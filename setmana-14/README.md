@@ -1,4 +1,4 @@
-### Resum de la setmana
+## Setmana 14 - Memòria II i bash
 
 - Aprofundiment en la **memòria virtual**, el funcionament de la TLB i el procés de gestió de fallades de pàgina.
 - Estudi de les **polítiques d’assignació i reemplaçament de pàgines** i del seu impacte en el rendiment.

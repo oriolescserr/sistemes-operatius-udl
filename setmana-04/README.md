@@ -1,4 +1,4 @@
-# **Setmana 4 – Gestió de processos, Kernel i seguretat**
+## Setmana 4 – Gestió de processos, Kernel i seguretat
 
 ### Resum de la setmana
 

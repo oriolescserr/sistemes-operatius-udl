@@ -1,4 +1,4 @@
-# Setmana 11 – Planificació de processos a Linux
+## Setmana 11 – Planificació de processos a Linux
 
 ### Resum de la setmana
 

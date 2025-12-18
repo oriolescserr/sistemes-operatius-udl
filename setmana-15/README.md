@@ -1,4 +1,4 @@
-# Resum de la setmana 15 - Acabar temari i fer models d'exàmen.
+## Setmana 15 - Acabar temari i fer models d'exàmen.
 
 - Setmana dedicada a **finalitzar el temari** i **repasar continguts** mitjançant exàmens d’anys anteriors.
 - Finalització de les diapositives de **Gestió de la Memòria (Part II)**.

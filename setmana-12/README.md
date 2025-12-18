@@ -1,4 +1,4 @@
-# Setmana 12 – Interbloqueig i Pràctiques
+## Setmana 12 – Interbloqueig i Pràctiques
 
 ### Resum de la setmana
 

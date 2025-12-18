@@ -1,4 +1,4 @@
-# Setmana 13 – Gestió de la Memòria i Introducció a Bash
+## Setmana 13 – Gestió de la Memòria i Introducció a Bash
 
 ### Resum de la setmana
 
